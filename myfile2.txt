@@ -1,3 +1,5 @@
 amit
 ashish
 prashant
+
+"A function in python is defined by a def statement. python The general syntax looks like this: def function name(Parameter list): statements, i.e. the function body. The parameter python list consists of none or more parameters
